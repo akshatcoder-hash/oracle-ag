@@ -28,7 +28,7 @@ Oracle Aggregator is a web application that fetches and displays cryptocurrency 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/oracle-aggregator.git
+   git clone https://github.com/akshatcoder-hash/oracle-aggregator.git
    cd oracle-aggregator
    ```
 
